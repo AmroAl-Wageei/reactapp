@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AmroAl-Wageei/reactapp/static/css/main.f855e6bc.css",
+    "main.js": "/AmroAl-Wageei/reactapp/static/js/main.21cf498d.js",
+    "static/js/488.3277d06c.chunk.js": "/AmroAl-Wageei/reactapp/static/js/488.3277d06c.chunk.js",
+    "static/media/logo.svg": "/AmroAl-Wageei/reactapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AmroAl-Wageei/reactapp/index.html",
+    "main.f855e6bc.css.map": "/AmroAl-Wageei/reactapp/static/css/main.f855e6bc.css.map",
+    "main.21cf498d.js.map": "/AmroAl-Wageei/reactapp/static/js/main.21cf498d.js.map",
+    "488.3277d06c.chunk.js.map": "/AmroAl-Wageei/reactapp/static/js/488.3277d06c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.21cf498d.js"
+  ]
+}
